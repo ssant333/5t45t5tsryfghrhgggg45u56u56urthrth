@@ -1,6 +1,6 @@
 @echo off
 color 0c
-title vsync off ever
+title niggay
 cls
 :nigga
 cls
