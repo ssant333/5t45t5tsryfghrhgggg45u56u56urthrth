@@ -76,7 +76,8 @@ curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%%2Bbuild.4.jar?mr_download_reason=standalone&mr_game_version=1.16.5"
 curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.20.1%%2Bbuild.401-1.16/fabric-api-0.20.1%%2Bbuild.401-1.16.jar?mr_download_reason=standalone&mr_game_version=1.16.2"
 cls
-echo fijate tu carpeta de downloads waxo...toca tecla...  
+echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.16.2  
 pause >nul
 goto nigga
 
@@ -104,6 +105,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.16.3
 pause >nul
 goto nigga
 
@@ -134,6 +136,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.17
 pause >nul
 goto nigga
 
@@ -162,6 +165,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.18
 pause >nul
 goto nigga
 
@@ -191,6 +195,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+C:\Users\%username%\Downloads\1.19
 pause >nul
 goto nigga
 
@@ -221,6 +226,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+C:\Users\%username%\Downloads\1.19.2
 pause >nul
 goto nigga
 
@@ -250,6 +256,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+C:\Users\%username%\Downloads\1.19.3
 pause >nul
 goto nigga
 
@@ -279,6 +286,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+C:\Users\%username%\Downloads\1.19.4
 pause >nul
 goto nigga
 
@@ -305,6 +313,14 @@ curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/jpXb8qLT/cullleaves
 curl -L -O  "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar?mr_download_reason=standalone"
 curl -L -O  "https://cdn.modrinth.com/data/5ZwdcRci/versions/Us8JqrP9/ImmediatelyFast-Fabric-1.5.4%%2B1.20.4.jar?mr_download_reason=standalone&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/n2c5lxAo/fabric-api-0.83.0%%2B1.20.jar?mr_download_reason=standalone"
+cd ..
+
+cls
+echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.20
+pause >nul
+goto nigga
+
 :1.20.1
 cls
 echo ahi te van los mods waxo
@@ -330,6 +346,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.20.1
 pause >nul
 goto nigga
 
@@ -358,6 +375,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.20.2
 pause >nul
 goto nigga
 
@@ -387,6 +405,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.20.3
 pause >nul
 goto nigga
 
@@ -414,6 +433,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.20.5
 pause >nul
 goto nigga
 
@@ -442,6 +462,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+C:\Users\%username%\Downloads\1.21
 pause >nul
 goto nigga
 
@@ -473,6 +494,7 @@ cd ..
 cls
 start C:\Users\%username%\Downloads\1.21.2-1.21.3
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.2
 pause >nul
 goto nigga
 
@@ -500,6 +522,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.4
 pause >nul
 goto nigga
 
@@ -526,6 +549,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.5
 pause >nul
 goto nigga
 
@@ -551,6 +575,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.6
 pause >nul
 goto nigga
 
@@ -578,6 +603,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.7
 pause >nul
 goto nigga
 
@@ -604,6 +630,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.8
 pause >nul
 goto nigga 
 
@@ -631,6 +658,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.9
 pause >nul
 goto nigga 
 
@@ -659,6 +687,7 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.10
 pause >nul
 goto nigga 
 
@@ -685,5 +714,6 @@ cd ..
 
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...
+start C:\Users\%username%\Downloads\1.21.11
 pause >nul
 goto nigga
