@@ -74,7 +74,7 @@ curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.1/dynamic-fps-
 curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-fabric-1.16/entityculling-fabric-mc1.16.5-1.5.2.jar?mr_download_reason=standalone&mr_game_version=1.16.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar?mr_download_reason=standalone&mr_game_version=1.16.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%%2Bbuild.4.jar?mr_download_reason=standalone&mr_game_version=1.16.5"
-curl -L -O  ""
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.20.1%%2Bbuild.401-1.16/fabric-api-0.20.1%%2Bbuild.401-1.16.jar?mr_download_reason=standalone&mr_game_version=1.16.2"
 cls
 echo fijate tu carpeta de downloads waxo...toca tecla...  
 pause >nul
@@ -89,7 +89,6 @@ timeout /t 2 /nobreak
 
 md "C:\Users\%username%\Downloads\1.16.3" 2>nul
 cd "C:\Users\%username%\Downloads\1.16.3"
-
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%%2Bbuild.4.jar?mr_download_reason=standalone&mr_game_version=1.16.3&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar?mr_download_reason=standalone&mr_game_version=1.16.3&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.8.0/phosphor-fabric-mc1.16.2-0.8.0.jar?mr_download_reason=standalone&mr_game_version=1.16.3&mr_loader=fabric"
@@ -99,6 +98,7 @@ curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-fabric-1.16/e
 curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar?mr_download_reason=standalone&mr_game_version=1.16.3&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/NRjRiSSD/versions/X5MN9zOr/memoryleakfix-fabric-pre1.17-1.1.5.jar?mr_download_reason=standalone&mr_game_version=1.16.3&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/uXXizFIs/versions/3UkWIj4a/ferritecore-2.1.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.25.0%%2Bbuild.415-1.16/fabric-api-0.25.0%%2Bbuild.415-1.16.jar?mr_download_reason=standalone&mr_game_version=1.16.3"
 
 cd ..
 
@@ -128,6 +128,7 @@ curl -L -O  "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.1/ferritecore-3
 curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-fabric-1.17/entityculling-fabric-mc1.17.1-1.5.0.jar?mr_download_reason=standalone&mr_game_version=1.17&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.3/krypton-0.1.3.jar?mr_download_reason=standalone&mr_game_version=1.17&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/cgAfW6pa/dynamic-fps-3.11.4%%2Bminecraft-1.17.0-fabric.jar?mr_download_reason=standalone&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.36.0%%2B1.17/fabric-api-0.36.0%%2B1.17.jar?mr_download_reason=standalone"
 
 cd ..
 
@@ -155,6 +156,7 @@ curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.1-fabric-1.18/e
 curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar?mr_download_reason=standalone&mr_game_version=1.18&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.5/krypton-0.1.5.jar?mr_download_reason=standalone"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/maKzAqnY/dynamic-fps-3.11.4%%2Bminecraft-1.18.0-fabric.jar?mr_download_reason=standalone&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0%2B1.18/fabric-api-0.44.0%%2B1.18.jar?mr_download_reason=standalone"
 
 cd ..
 
@@ -183,6 +185,7 @@ curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/EqasvEFc/cullleaves
 curl -L -O  "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.0/krypton-0.2.0.jar?mr_download_reason=standalone&mr_game_version=1.19&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-fabric-1.19/entityculling-fabric-1.5.2-mc1.19.jar?mr_download_reason=standalone&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%%2B-1.1.5.jar?mr_download_reason=standalone&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.58.0%%2B1.19/fabric-api-0.58.0%%2B1.19.jar?mr_download_reason=standalone"
 
 cd ..
 
@@ -212,6 +215,7 @@ curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/twdGLDHv/entitycull
 curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/EqasvEFc/cullleaves-fabric-3.0.1.jar?mr_download_reason=standalone&mr_game_version=1.19.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/codAaoxh/versions/p0LjncVW/midnightlib-fabric-1.0.0.jar?mr_download_reason=standalone&mr_game_version=1.19.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar?mr_download_reason=standalone&mr_game_version=1.19.2&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/6g95K303/fabric-api-0.77.0%%2B1.19.2.jar?mr_download_reason=standalone&mr_game_version=1.19.2"
 
 cd ..
 
@@ -240,6 +244,7 @@ curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/jAdt9S90/cullleaves
 curl -L -O  "https://cdn.modrinth.com/data/codAaoxh/versions/61U935Ys/midnightlib-fabric-1.1.0.jar?mr_download_reason=standalone&mr_game_version=1.19.3&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar?mr_download_reason=standalone&mr_game_version=1.19.3&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar?mr_download_reason=standalone&mr_game_version=1.19.3&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/jyKnHEDY/fabric-api-0.76.1%%2B1.19.3.jar?mr_download_reason=standalone&mr_game_version=1.19.3"
 
 cd ..
 
@@ -268,6 +273,7 @@ curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/6IrZzIsS/entitycull
 curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/jAdt9S90/cullleaves-fabric-3.0.3.jar?mr_download_reason=standalone&mr_game_version=1.19.4&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/fQEb0iXm/versions/Tncui9tU/krypton-0.2.2.jar?mr_download_reason=standalone&mr_game_version=1.19.4&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar?mr_download_reason=standalone&mr_game_version=1.19.4&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/nyAmoHlr/fabric-api-0.87.2%%2B1.19.4.jar?mr_download_reason=standalone&mr_game_version=1.19.4"
 
 cd ..
 
