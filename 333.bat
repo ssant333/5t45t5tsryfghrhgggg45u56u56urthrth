@@ -524,6 +524,7 @@ md "C:\Users\%username%\Downloads\1.21" 2>nul
 cd "C:\Users\%username%\Downloads\1.21"
 curl -L -O  "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar?mr_download_reason=standalone&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21&mr_loader=fabric"
 curl -L -O "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%%2Bmc1.21.1.jar"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%%2Bminecraft-1.21.0-fabric.jar?mr_download_reason=standalone&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/ivkfruZP/entityculling-fabric-1.8.2-mc1.21.jar?mr_download_reason=standalone&mr_game_version=1.21&mr_loader=fabric"
@@ -588,6 +589,7 @@ timeout /t 2 /nobreak
 md "C:\Users\%username%\Downloads\1.21.2-1.21.3" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.2-1.21.3"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/rLBgU2jc/sodium-fabric-0.6.13%%2Bmc1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.2"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/ZQ3k4KzW/sodium-extra-fabric-0.6.0%%2Bmc1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0Cc7ZVd/lithium-fabric-0.14.6%%2Bmc1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wMNsaKHd/dynamic-fps-3.11.8%%2Bminecraft-1.21.2-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/codAaoxh/versions/PWJbf1AX/midnightlib-fabric-1.6.4%%2B1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.3&mr_loader=fabric"
@@ -618,6 +620,7 @@ md "C:\Users\%username%\Downloads\1.21.3" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.3"
 
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/rLBgU2jc/sodium-fabric-0.6.13%%2Bmc1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.2"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/ZQ3k4KzW/sodium-extra-fabric-0.6.0%%2Bmc1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.3&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0Cc7ZVd/lithium-fabric-0.14.6%%2Bmc1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wMNsaKHd/dynamic-fps-3.11.8%%2Bminecraft-1.21.2-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/codAaoxh/versions/PWJbf1AX/midnightlib-fabric-1.6.4%%2B1.21.3.jar?mr_download_reason=standalone&mr_game_version=1.21.3&mr_loader=fabric"
@@ -648,8 +651,8 @@ timeout /t 2 /nobreak
 md "C:\Users\%username%\Downloads\1.21.4" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.4"
 curl -L -O  "https://cdn.modrinth.com/data/codAaoxh/versions/I8pZ9fY0/midnightlib-fabric-1.9.3%%2B1.21.5.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
-curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/TH6bWoGc/cullleaves-fabric-4.1.1%%2B1.21.5.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/mOgUt4GM/versions/qEKKsTqd/modmenu-13.0.4.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/f4TfteNb/sodium-extra-fabric-0.6.1%%2Bmc1.21.4.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%%2Bmc1.21.4.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wMNsaKHd/dynamic-fps-3.11.8%%2Bminecraft-1.21.2-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.2&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/gvQqBUqZ/versions/u8pHPXJl/lithium-fabric-0.15.3%%2Bmc1.21.4.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
@@ -659,6 +662,7 @@ curl -L -O  "https://cdn.modrinth.com/data/NNAgCjsB/versions/O31j1KhT/entitycull
 curl -L -O  "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/uXXizFIs/versions/7KqeXPRS/ferritecore-7.1.3-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%%2B1.21.4.jar?mr_download_reason=standalone&mr_game_version=1.21.4"
+curl -L -O  "https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric"
 cd ..
 
 cls
@@ -677,6 +681,7 @@ md "C:\Users\%username%\Downloads\1.21.5" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.5"
 curl -L -O  "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xcELvp6R/lithium-fabric-0.16.3%%2Bmc1.21.5.jar?mr_download_reason=standalone&mr_game_version=1.21.5&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/DA250htH/sodium-fabric-0.6.13%%2Bmc1.21.5.jar?mr_download_reason=standalone&mr_game_version=1.21.5&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%%2Bmc1.21.5.jar?mr_download_reason=standalone&mr_game_version=1.21.5&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/9io2uHZG/dynamic-fps-3.11.4%%2Bminecraft-1.21.5-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.5&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/TH6bWoGc/cullleaves-fabric-4.1.1%%2B1.21.5.jar?mr_download_reason=standalone&mr_game_version=1.21.5&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/codAaoxh/versions/I8pZ9fY0/midnightlib-fabric-1.9.3%%2B1.21.5.jar?mr_download_reason=standalone&mr_game_version=1.21.5&mr_loader=fabric"
@@ -703,6 +708,7 @@ timeout /t 2 /nobreak
 md "C:\Users\%username%\Downloads\1.21.6" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.6"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/7pwil2dy/sodium-fabric-0.7.3%%2Bmc1.21.8.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/v7JHUEiF/sodium-extra-fabric-0.6.6%%2Bmc1.21.6.jar?mr_download_reason=standalone&mr_game_version=1.21.6&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/uXXizFIs/versions/LdlksamY/ferritecore-8.0.4-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.6&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/OnRerL4D/dynamic-fps-3.11.4%%2Bminecraft-1.21.6-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.6&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/51shyZVL/versions/ivOsScf8/moreculling-fabric-1.21.8-1.4.0-beta.2.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
@@ -729,6 +735,7 @@ timeout /t 2 /nobreak
 md "C:\Users\%username%\Downloads\1.21.7" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.7"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/7pwil2dy/sodium-fabric-0.7.3%%2Bmc1.21.8.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/v7JHUEiF/sodium-extra-fabric-0.6.6%%2Bmc1.21.6.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/51shyZVL/versions/ivOsScf8/moreculling-fabric-1.21.8-1.4.0-beta.2.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/5ZwdcRci/versions/WbU84LUp/ImmediatelyFast-Fabric-1.11.2%%2B1.21.7.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/OnRerL4D/dynamic-fps-3.11.4%%2Bminecraft-1.21.6-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.6&mr_loader=fabric"
@@ -759,6 +766,7 @@ cd "C:\Users\%username%\Downloads\1.21.8"
 curl -L -O  "https://cdn.modrinth.com/data/5ZwdcRci/versions/zihthChu/ImmediatelyFast-Fabric-1.12.6%%2B1.21.8.jar?mr_download_reason=standalone&mr_game_version=1.21.8&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/51shyZVL/versions/ivOsScf8/moreculling-fabric-1.21.8-1.4.0-beta.2.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/7pwil2dy/sodium-fabric-0.7.3%%2Bmc1.21.8.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/Of25zuEG/sodium-extra-fabric-0.7.0%%2Bmc1.21.8.jar?mr_download_reason=standalone&mr_game_version=1.21.8&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/GNxdLCoP/versions/x71NvPVT/cullleaves-fabric-4.1.1%%2B1.21.8.jar?mr_download_reason=standalone&mr_game_version=1.21.6&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/OnRerL4D/dynamic-fps-3.11.4%%2Bminecraft-1.21.6-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.6&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/codAaoxh/versions/JBMS9mK4/midnightlib-fabric-1.9.3%%2B1.21.8.jar?mr_download_reason=standalone&mr_game_version=1.21.8&mr_loader=fabric"
@@ -784,6 +792,7 @@ timeout /t 2 /nobreak
 md "C:\Users\%username%\Downloads\1.21.9" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.9"
 curl -L -O  "https://cdn.modrinth.com/data/AANobbMI/versions/sFfidWgd/sodium-fabric-0.7.3%%2Bmc1.21.10.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/8CGTW5B3/sodium-extra-fabric-0.7.1%%2Bmc1.21.10.jar?mr_download_reason=standalone&mr_game_version=1.21.9&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/5ZwdcRci/versions/9hztj0xA/ImmediatelyFast-Fabric-1.13.6%%2B1.21.10.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/LQ3K71Q1/versions/UuDaIv5m/dynamic-fps-3.11.6%%2Bminecraft-1.21.9-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.9&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/51shyZVL/versions/nASRyMbu/moreculling-fabric-1.21.9-1.5.0-beta.2.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
@@ -812,6 +821,7 @@ timeout /t 2 /nobreak >nul
 md "C:\Users\%username%\Downloads\1.21.10" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.10"
 curl -L -O  "https://cdn.modrinth.com/data/mOgUt4GM/versions/pYbFlVtR/modmenu-16.0.1.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
+curl -L -O  "https://cdn.modrinth.com/data/PtjYWJkn/versions/8CGTW5B3/sodium-extra-fabric-0.7.1%%2Bmc1.21.10.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/uXXizFIs/versions/bPLllEgi/ferritecore-8.1.0-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/5ZwdcRci/versions/9hztj0xA/ImmediatelyFast-Fabric-1.13.6%%2B1.21.10.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
 curl -L -O  "https://cdn.modrinth.com/data/51shyZVL/versions/nASRyMbu/moreculling-fabric-1.21.9-1.5.0-beta.2.jar?mr_download_reason=standalone&mr_game_version=1.21.10&mr_loader=fabric"
@@ -841,6 +851,7 @@ md "C:\Users\%username%\Downloads\1.21.11" 2>nul
 cd "C:\Users\%username%\Downloads\1.21.11"
 curl -L -O "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_loader=fabric"
 curl -L -O "https://cdn.modrinth.com/data/GNxdLCoP/versions/yrL6pwHZ/cullleaves-fabric-4.1.1.1%%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric"
+curL -L -O "https://cdn.modrinth.com/data/PtjYWJkn/versions/taHK5pw1/sodium-extra-fabric-0.9.3%%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric"
 curl -L -O "https://cdn.modrinth.com/data/codAaoxh/versions/jkodor79/midnightlib-fabric-1.9.3%%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric"
 curl -L -O "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar?mr_download_reason=standalone&mr_loader=fabric"
 curl -L -O "https://cdn.modrinth.com/data/5ZwdcRci/versions/4EwhsTu7/ImmediatelyFast-Fabric-1.14.3%%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric"
